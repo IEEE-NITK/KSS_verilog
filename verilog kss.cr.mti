@@ -1,8 +1,0 @@
-{C:/Users/shobu/Documents/GitHub/KSS_verilog/0_Let's dive in/0_and_imp.v} {1 {vlog -work work -stats=none {C:/Users/shobu/Documents/GitHub/KSS_verilog/0_Let's dive in/0_and_imp.v}
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module and_imp
-
-Top level modules:
-	and_imp
-
-} {} {}}
